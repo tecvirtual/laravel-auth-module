@@ -40,6 +40,7 @@ class AuthTest extends TestCase
             'token_type',
             'expires_in',
         ]);
+
     }
 
     /**
